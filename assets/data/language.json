@@ -1,0 +1,70 @@
+[
+  {
+    "report": ["ሪፖርት", "Gabaasa", "Report"],
+    "home": ["መነሸ ገጽ", "Mana", "Home"],
+    "selfTesting": ["ግለ-ምርመራ", "Qorannoo Dhuunfaa", "Self Testing"],
+    "updateCovidInfo": ["አዲስ መረጃ", "Odeeffannoo haaraa", "Update Covid info"],
+    "frequentlyAskedQuestion": [
+      "ተደጋጋሚ ጥያቄዎች",
+      "Gsaffiiwwan irradeddeebi'an",
+      "Frequently Asked Question"
+    ],
+    "help": ["እገዛ", "Gargaarsa", "Help"],
+    "about": ["ስለ እኛ", "Waa'ee", "About"],
+    "exit": ["ውጣ", "Bahuumsa", "Exit"],
+    "covid19Test": ["የኮሮና ምርመራ", "Qorannoo Covid 19", "Covid 19 Test"],
+    "name": ["ስም", "Maqaa", "Name"],
+    "yourAnswer": ["መልስ", "Deebii", "Your Answer"],
+    "phoneNumber": ["ስልክ ቁጥር", "Lakkoofsa Bilbilaa", "Phone Number"],
+    "address": ["አድራሻ", "Iddoo Jireenya", "Address"],
+    "doYouHaveHighFever": [
+      "ከፍተኛ የሙቀት ስሜት አለዎት?",
+      "Ho'aa qaama ol ka'aa namatti dhagahamuu?",
+      "Do You Have High Fever?"
+    ],
+    "yes": ["አዎ", "Eshii", "Yes"],
+    "no": ["አይ", "Lakkii", "No"],
+    "doYouHaveDryCough": [
+      "የሳል ምልክት አለዎት?",
+      "Utaalloo gogaa?",
+      "Do You Have Dry Cough?"
+    ],
+    "didBreathingProblemHappened": [
+      "የመተንፈስ ችግር አጋጥሞታል?",
+      "Rakkoo hargaanuu sii mudaateera?",
+      "Did Breathing Problem Happened?"
+    ],
+    "didYouGetTired": [
+      "የድካም ስሜት ይሰማዎታል?",
+      "Dadhabbiin sitti dhagahamaa?",
+      "Did You Get Tired?"
+    ],
+    "doYouHaveStomachake": [
+      "የሆድ ቁርጠት ስሜት አለዎት?",
+      "Garaa ciniinnaa qabdaa?",
+      "Do You Have Stomach ace?"
+    ],
+    "doYouHaveTravelHistory": [
+      "የጉዞ ታሪክ አለዎት?",
+      "Deemsa karaa fagoo irra turtee?",
+      "Do You Have Travel History?"
+    ],
+    "doYouHaveContactWithUnhelthy": [
+      "ከታማሚ ሰው ጋር ንክኪ ነበሮት?",
+      "Nama Dhukkubsataataana wal xuxxuqqii qabdaa?",
+      "Do You Have Contact With Unhealthy?"
+    ],
+    "people": ["ሕዝብ", "Namoota", "People"],
+    "covid19Info": ["የኮሮና መረጃ", "Odeeffannoo Covid 19", "Covid 19 info"],
+    "global": ["አለም አቀፋዊ", "Adunyaawwaa", "Global"],
+    "local": ["የሀገር ውስጥ", "Kan Biyyaa Keessaa", "Local"],
+    "faq": ["የብዙሀን ጥያቄ", "Gaaffii Namoota Baay'ee", "FAQ"],
+    "welcome": ["እንኳን ደህና መጡ!!", "Baga Nagaan Dhuftan!!", "Welcome!!"],
+    "submit": ["ያስገቡ", "Kan Galchuu", "Submit"],
+    "fatherName": ["", "", ""],
+    "gFatherName": ["", "", ""],
+    "bluetoothName": ["", "", ""],
+    "bluetoothAdress": ["", "", ""],
+    "register": ["", "", ""]
+  }
+]
